@@ -9,13 +9,13 @@
             
             .mike{color:green;}
             h6{font-size:16px;}
-            .blog{font-family:fantasy;line-height:1.5em;font-style:serif;background-color:yellow;font-style:bold}
+            .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
             
         </style>
     </head>
     <body>
         
-        <h1 class="mike">Mike's blog</h1>
+        <h1 class="mike">Bragg Family Web page</h1>
 
         <h3>Contents</h3>
         <ul>
@@ -23,16 +23,16 @@
             <li><a href="#saga">The saga continues</a></li>
         </ul>
         
-        <h2 id="fisrt">First post</h2>
+        <h2 id="firstt">Family History</h2>
         <h6>Posted on April 11, 2019</h6>
         
-        <p class="blog">This is my first blog. I've started a journey into coding in the hopes of broadening my horizons and creating a more marketable skill set.</p>
+        <p class="blog">The Bragg family history is Irish Catholic and long.</p>
         
-        <h2 id="saga">The saga continues</h2>
+        <h2 id="saga">The Faith and the Family</h2>
         
         <h6>Posted on April 12, 2019</h6>
         
-        <p class="blog"> It might not seem like much now, but these are the first steps taken towards a larger goal. As it's been said, a journey of a thousand miles stars with a single step.</p>
+        <p class="blog"> Passed down for countless generations, the Catholic faith has defined our family my entire life.</p>
         
     </body>
 </html>
