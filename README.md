@@ -15,12 +15,12 @@
     </head>
     <body>
         
-        <h1 class="mike">Bragg Family Web Page</h1>
+        <h1 class="mike">HAPPY ANNIVERSARY! </h1>
 
         <h3>Contents</h3>
         <ul>
-            <li> <a href="#first">First post!</a></li>
-            <li><a href="#saga">The saga continues</a></li>
+            <li> <a href="#first">I have a beautiful wife</a></li>
+            <li><a href="#saga">She gave me beautiful babies</a></li>
         </ul>
         
         <h2 id="firstt">Family History</h2>
