@@ -15,7 +15,7 @@
     </head>
     <body>
         
-        <h1 class="mike">Bragg Family Web page</h1>
+        <h1 class="mike">Bragg Family Web Page</h1>
 
         <h3>Contents</h3>
         <ul>
@@ -26,13 +26,13 @@
         <h2 id="firstt">Family History</h2>
         <h6>Posted on April 11, 2019</h6>
         
-        <p class="blog">The Bragg family history is Irish Catholic and long.</p>
+        <p class="blog">This web page is a digital presence and visible sign of the Bragg family. It contains our history, our memories and our thoughts concerning both the past and the future.</p>
         
-        <h2 id="saga">The Faith and the Family</h2>
+        <h2 id="saga">Who We Are</h2>
         
-        <h6>Posted on April 12, 2019</h6>
+        <h6>Posted on April 17, 2019</h6>
         
-        <p class="blog"> Passed down for countless generations, the Catholic faith has defined our family my entire life.</p>
+        <p class="blog"> I, Michael Bragg, married my wife Kathleen 9 years ago on this very day in April of 2010. Our Children are Daniel Bragg born November 26th of 2014, Molly who was born July 18th of 2017, and Joseph who is due in Ocotber of 2019 .</p>
         
     </body>
 </html>
