@@ -5,7 +5,7 @@
         <style>
             h1{font-style:monotype;}
             body{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold;}
-            .gray{color:gray;}
+            #gray{background-color:gray;}
             .mike{color:green;}
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
@@ -14,7 +14,7 @@
     </head>
     <body><div id="gray">
         
-        <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
+       <div id="gray"> <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
 
         <h3>Contents</h3>
         <ul>
