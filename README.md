@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -15,12 +14,12 @@
     </head>
     <body>
         
-        <h1 class="mike">HAPPY ANNIVERSARY! </h1>
+        <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
 
         <h3>Contents</h3>
         <ul>
-            <li> <a href="#first">I have a beautiful wife</a></li>
-            <li><a href="#saga">She gave me beautiful babies</a></li>
+            <li> <a href="#first">sCHOOL IS NOT A PLACE FOR SMART PEOPLE</a></li>
+            <li><a href="#saga">AM I A JOKE TO YOU?</a></li>
         </ul>
         
         <h2 id="firstt">Family History</h2>
