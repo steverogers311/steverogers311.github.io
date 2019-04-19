@@ -5,7 +5,7 @@
         <title>Project: Blog</title>
         <style>
             h1{font-style:monotype;}
-            body{font-family:fantasy;line-height:1.5em;font-style:serif;background-color:yellow;font-style:bold;}
+            body{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold;}
             
             .mike{color:green;}
             h6{font-size:16px;}
