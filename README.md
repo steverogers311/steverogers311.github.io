@@ -5,7 +5,7 @@
         <style>
             h1{font-style:monotype;}
             body{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold;}
-            #gray{background-color:rbg(230,230,230);}
+            #gray{color:rbg(230,230,230);}
             .mike{color:green;}
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
@@ -18,16 +18,16 @@
 
         <h3>Contents</h3>
         <ul>
-            <li> <a href="#first">sCHOOL IS NOT A PLACE FOR SMART PEOPLE</a></li>
+            <li> <a href="#first">SCHOOL IS NOT A PLACE FOR SMART PEOPLE</a></li>
             <li><a href="#saga">AM I A JOKE TO YOU?</a></li>
         </ul>
         
-        <h2 id="firstt">Family History</h2>
+        <h2 id="firstt">RICK SANCHEZ</h2>
         <h6>Posted on April 11, 2019</h6>
         
         <p class="blog">This web page is a digital presence and visible sign of the Bragg family. It contains our history, our memories and our thoughts concerning both the past and the future.</p>
         
-        <h2 id="saga">Who We Are</h2>
+        <h2 id="saga">YOU GET WHAT YOU PAY FOR</h2>
         
         <h6>Posted on April 17, 2019</h6>
         
