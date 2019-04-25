@@ -9,7 +9,9 @@
             .mike{color:green;}
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
-            #para-2 {float:right;  background: rgb(255, 255, 219)}
+            #para-2 {float:right;  
+            background: rgb(255, 255, 219)
+            width:40%;}
             
         </style>
     </head>
