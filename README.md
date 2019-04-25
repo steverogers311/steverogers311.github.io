@@ -17,7 +17,7 @@
     </head>
     <body><div id="blue-ish">
         
-       <div id="blue-ish"> <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
+       <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
 
         <h3>Contents</h3>
         <ul>
