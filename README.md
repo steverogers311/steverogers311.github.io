@@ -10,7 +10,11 @@
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
             #para-2 {float:right;  
-            background: rgb(255, 255, 219);width:200px;float:right;margin-left:10px;margin-top:100px;
+            background: rgb(255, 255, 219);width:200px;
+            position:absolute;
+            float:right;
+            margin-left:10px;
+            margin-top:100px;
            }
             .footer{margin-top:1000px;}
             
