@@ -12,7 +12,7 @@
             #para-2 {float:right;  
             background: rgb(255, 255, 219);width:200px;float:right;margin-left:10px;
            }
-            .footer{top:1000px}
+            .footer{margin-top:1000px;}
             
         </style>
     </head>
