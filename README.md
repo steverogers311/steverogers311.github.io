@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Blog</title>
+        <title>Personal website</title>
         <style>
             h1{font-style:monotype;}
             body{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold;}
@@ -10,7 +10,7 @@
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
             #para-2 {float:right;  
-            background: rgb(255, 255, 219);width:200px;float:right;margin-left:10px;
+            background: rgb(255, 255, 219);width:200px;float:right;margin-left:10px;margin-top:300px;
            }
             .footer{margin-top:1000px;}
             
