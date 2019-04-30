@@ -39,7 +39,7 @@
         <h6>Posted on April 17, 2019</h6>
         
         
-        <div id="para-2"><p class="blog"> I, Michael Bragg, married my wife Kathleen 9 years ago on this very day in April of 2010. Our Children are Daniel Bragg born November 26th of 2014, Molly who was born July 18th of 2017, and Joseph who is due in Ocotber of 2019 .</div></p>
+        <div id="para-2"><p class="blog"> I, Michael Bragg, married my wife Kathleen 9 years ago on this very day in April of 2010. Our Children are Daniel Bragg born November 26th of 2014, Molly who was born July 18th of 2017, and Joseph who is due in Ocotber of 2019 .</p></div>
         
        <div class="footer"> <h2>Please contact us at steverogers311@yahoo.com</h2></div>
         
