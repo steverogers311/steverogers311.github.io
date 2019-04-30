@@ -15,7 +15,7 @@
             margin-left:10px;
             margin-top:100px;
            }
-            .footer{margin-top:1000px;}
+            .footer{margin-top:800px;}
             
         </style>
     </head>
