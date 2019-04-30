@@ -9,11 +9,12 @@
             .mike{color:green;}
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
-            #para-2 {float:right;  
+            #para-2 {  
             background: rgb(255, 255, 219);width:200px;
             float:right;
             margin-left:10px;
             margin-top:100px;
+            border: 5px solid orange;
            }
             .footer{margin-top:800px;}
             
