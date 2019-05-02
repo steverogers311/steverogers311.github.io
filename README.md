@@ -5,7 +5,7 @@
         <style>
             h1{font-style:monotype;}
             body{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold;}
-            #blue-ish{background: rgb(219, 235, 255);padding: 15px;}
+            #blue-ish{background-color: #e9ebee;padding: 15px;}
             .mike{color:green;}
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
