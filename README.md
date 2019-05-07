@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <title>Personal website</title>
         <style>
-            h1{font-style:monotype;}
+            h1{font-style:italic;}
             body{font-family:proza libre;line-height:1.5em;font-style:serif;font-style:bold;}
             #blue-ish{background-color: #e9ebee;padding: 15px;}
             .mike{color:green;}
@@ -17,13 +17,16 @@
             border: 5px solid orange;
            }
             .footer{margin-top:800px;}
-            
+            #picture{
+                position:absolute;
+                top:50px;
+                z-index:1;}
         </style>
     </head>
     <body><div id="blue-ish">
         
        <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
-        <img src="https://picsum.photos/id/1031/400/400"> 
+        <img id="picture" src="https://picsum.photos/id/1031/400/400"> 
         <h3>Contents</h3>
         <ul>
             <li> <a href="#first">SCHOOL IS NOT A PLACE FOR SMART PEOPLE</a></li>
