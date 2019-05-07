@@ -5,7 +5,9 @@
         <style>
             h1{font-style:italic;}
             body{font-family:proza libre;line-height:1.5em;font-style:serif;font-style:bold;}
-            #blue-ish{background-color: #e9ebee;padding: 15px;}
+            #blue-ish{background-color: #e9ebee;
+            padding: 15px;
+            z-index:1;}
             .mike{color:green;}
             h6{font-size:16px;}
             .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
@@ -20,7 +22,7 @@
             #picture{
                 position:absolute;
                 top:50px;
-                z-index:1;}
+                z-index:2;}
         </style>
     </head>
     <body><div id="blue-ish">
