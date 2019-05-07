@@ -26,7 +26,9 @@
     <body><div id="blue-ish">
         
        <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
-        <img id="picture" src="https://picsum.photos/id/1031/400/400"> 
+        <div id="picture">
+        <img src="https://picsum.photos/id/1031/400/400"> 
+        </div>
         <h3>Contents</h3>
         <ul>
             <li> <a href="#first">SCHOOL IS NOT A PLACE FOR SMART PEOPLE</a></li>
@@ -43,7 +45,7 @@
         <h6>Posted on April 17, 2019</h6>
         
         
-        <div id="para-2"><p class="blog"> I, Michael Bragg, married my wife Kathleen 9 years ago on this very day in April of 2010. Our Children are Daniel Bragg born November 26th of 2014, Molly who was born July 18th of 2017, and Joseph who is due in Ocotber of 2019 .</p></div>
+        <div id="para-2"><p class="blog"> We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.</p></div>
         
        <div class="footer"> <h2>Please contact us at steverogers311@yahoo.com</h2></div>
         
