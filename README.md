@@ -23,7 +23,7 @@
     <body><div id="blue-ish">
         
        <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
-
+        <img src="https://picsum.photos/id/1031/400/400"> 
         <h3>Contents</h3>
         <ul>
             <li> <a href="#first">SCHOOL IS NOT A PLACE FOR SMART PEOPLE</a></li>
