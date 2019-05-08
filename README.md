@@ -3,7 +3,9 @@
         <meta charset="utf-8">
         <title>Personal website</title>
         <style>
-            h1{font-style:italic;}
+            h1{font-style:italic;
+            position:absolute;
+            z-index:1}
             body{font-family:proza libre;line-height:1.5em;font-style:serif;font-style:bold;}
             #blue-ish{background-color: #e9ebee;
             padding: 15px;
