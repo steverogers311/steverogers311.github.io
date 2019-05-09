@@ -5,28 +5,36 @@
         <title>Personal website</title>
         <style>
             h1{font-style:italic;
-            position:absolute;
+                position:absolute;
                 top:50px;
-                z-index:1;}
-            body{font-family:proza 
-            libre;line-height:1.5em;
-            font-style:serif;font-style:bold;}
-            #blue-ish{background-color: #e9ebee;
-            padding: 15px;
-            z-index:2;}
+                text-align:center;}
+            body{
+                font-family:proza libre;
+                line-height:1.5em;
+                font-style:serif;
+                font-style:bold;}
+            #blue-ish{
+                background-color: #e9ebee;
+                padding: 15px;
+                z-index:2;
+                        }
             .mike{color:green;}
             h6{font-size:16px;}
-            .blog{font-family:fantasy;line-height:1.5em;font-style:serif;font-style:bold}
+            .blog{font-family:fantasy;
+                line-height:1.5em;
+                font-style:serif;
+                font-style:bold}
             #para-2 {  
-            background: rgb(255, 255, 219);width:200px;
-            float:right;
-            margin-left:10px;
-            margin-top:100px;
-            border: 5px solid orange;
-           }
+                background: rgb(255, 255, 219);width:200px;
+                float:right;
+                margin-left:10px;
+                margin-top:100px;
+                border: 5px solid orange;
+                                        }
             .footer{margin-top:800px;}
             #picture{
                 position:relative;
+                align:center;
                
              }
         </style>
