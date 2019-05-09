@@ -26,9 +26,9 @@
            }
             .footer{margin-top:800px;}
             #picture{
-                position:absolute;
-                top:50px;
-                z-index:1;}
+                position:relative;
+               
+             }
         </style>
     </head>
     <body><div id="blue-ish">
