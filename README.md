@@ -34,7 +34,7 @@
             .footer{margin-top:800px;}
             #picture{
                 position:relative;
-                align:center;
+                
                
              }
         </style>
