@@ -4,7 +4,11 @@
         <meta charset="utf-8">
         <title>Personal website</title>
         <style>
-            h1{font-style:italic;
+            
+            #picture{
+                position:relative;
+                                    }
+h1{font-style:italic;
                 position:absolute;
                 top:50px;
                 text-align:center;}
@@ -32,11 +36,9 @@
                 border: 5px solid orange;
                                         }
             .footer{margin-top:800px;}
-            #picture{
-                position:relative;
-                
+                          
                
-             }
+             
         </style>
     </head>
     <body><div id="blue-ish">
