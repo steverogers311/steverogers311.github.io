@@ -5,9 +5,7 @@
         <title>Personal website</title>
         <style>
             
-            #picture{
-                position:relative;
-                                    }
+            
 h1{font-style:italic;
                 position:absolute;
                 top:50px;
