@@ -7,9 +7,7 @@
             
             
 h1{font-style:italic;
-                position:absolute;
-                top:50px;
-                text-align:center;}
+                
             body{
                 font-family:proza libre;
                 line-height:1.5em;
@@ -33,8 +31,7 @@ h1{font-style:italic;
                 margin-top:100px;
                 border: 5px solid orange;
                                         }
-            .footer{margin-top:800px;}
-                          
+            .footer{margin-top:800px;}                       
                
              
         </style>
