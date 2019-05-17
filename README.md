@@ -24,7 +24,7 @@ h1{font-style:italic;
                 line-height:1.5em;
                 font-style:serif;
                 font-style:bold}
-            #para-2 {  
+            #para-2 {  position:absolute
                 background: rgb(255, 255, 219);width:200px;
                 float:right;
                 margin-left:10px;
