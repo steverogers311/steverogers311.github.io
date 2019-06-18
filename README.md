@@ -1,68 +1,47 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Personal website</title>
-        <style>
-            
-            
-h1{font-style:italic;
-                
-            body{
-                font-family:proza libre;
-                line-height:1.5em;
-                font-style:serif;
-                font-style:bold;}
-            #blue-ish{
-                background-color: #e9ebee;
-                padding: 15px;
-                z-index:2;
-                        }
-            .mike{color:green;}
-            h6{font-size:16px;}
-            .blog{font-family:fantasy;
-                line-height:1.5em;
-                font-style:serif;
-                font-style:bold}
-            #para-2 {  position:absolute
-                background: rgb(255, 255, 219);width:200px;
-                float:right;
-                margin-left:10px;
-                margin-top:100px;
-                border: 5px solid orange;
-               }
-               
-            .footer{margin-top:800px;}                       
-               
-             
-        </style>
-    </head>
-    <body><div id="blue-ish">
-        
-       <h1 class="mike">TOWN IS BACK THE WAY YOU CAME </h1>
-        <div id="picture">
-        <img src="https://picsum.photos/id/1031/400/400"> 
-        </div>
-        <h3>Contents</h3>
-        <ul>
-            <li> <a href="#first">SCHOOL IS NOT A PLACE FOR SMART PEOPLE</a></li>
-            <li><a href="#saga">AM I A JOKE TO YOU?</a></li>
-        </ul>
-        
-        <h2 id="first">RICK SANCHEZ</h2>
-        <h6>Posted on April 11, 2019</h6>
-        <a href="https://facebook.com">Facebook</a>
-        <p class="blog">This web page is a digital presence and visible sign of the Bragg family. It contains our history, our memories and our thoughts concerning both the past and the future.</p>
-        
-        <h2 id="saga">YOU GET WHAT YOU PAY FOR</h2>
-        
-        <h6>Posted on April 17, 2019</h6>
-        
-        
-        <div id="para-2"><p class="blog"> We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.</p></div>
-        
-       <div class="footer"> <h2>Please contact us at steverogers311@yahoo.com</h2></div>
-        
-        
-   </div> </body>
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Your Name</title>
+  
+	<meta name="viewport" content="width=device-width" />
+	<meta name="description" content="Your Name Portfolio" />
+	<meta name="keywords" content="Your Name, technology, business" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	
+	<link rel="icon" type="image/png" href="http://waldronmatthew.com/favicon.png">
+	<link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css" type="text/css" title="style" />
+</head>
+
+<body>
+
+	<a href="index.html"><img src="https://fontmeme.com/permalink/180423/0b307f5b05a133409e7cc561af1cadaf.png" alt="website-logo"></a>
+	
+	<h1>Hi there, I'm Jon.</h1>
+	<h2>Use this space to insert your tagline and remember to keep it short and memorable.</h2>
+	<h3>Advertise highlighted projects/accomplishments below.</h3>
+	<div class="grid">
+		<div class="grid_item three-center span" style="background-image:url('pictures/project.jpg');"><a href="project-management.html" class="grid_link"><div class="tile"><p>Project Management</p></div></a></div>
+		<div class="grid_item three-center span" style="background-image:url('pictures/code.jpg');"><a href="analytics-app.html" class="grid_link"><div class="tile"><p>Analytics App</p></div></a></div>
+		<div class="grid_item three-center span" style="background-image:url('pictures/clients.jpg');"><a href="relationship-building.html" class="grid_link"><div class="tile"><p>Relationship Building</p></div></a></div>
+	</div>
+
+	<div class="btn-container">
+		<div class="pages">
+			<div class="list"><a href="portfolio.html">Portfolio</a></div>
+		</div>	
+	</div>
+	
+	<div class="btn-container">
+		<div class="footer">
+			<div class="list"><a class="cool-link" href="index.html">LinkedIn</a></div>
+			<div class="list"><a class="cool-link" href="index.html">GitHub</a></div>
+			<div class="list"><a class="cool-link" href="index.html">Resume</a></div>
+		</div>	
+	</div>
+	
+	<a href="web.html">&copy; Copyright <span id="footer-copyright"></span><i> Your Name</i>. All Rights Reserved.</a>
+	
+	<script src="js/copyright-year.js"></script>
+</body>
 </html>
