@@ -1,47 +1,44 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-	<title>Your Name</title>
-  
-	<meta name="viewport" content="width=device-width" />
-	<meta name="description" content="Your Name Portfolio" />
-	<meta name="keywords" content="Your Name, technology, business" />
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	
-	<link rel="icon" type="image/png" href="http://waldronmatthew.com/favicon.png">
-	<link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
-	<link rel="stylesheet" href="css/style.css" type="text/css" title="style" />
-</head>
-
-<body>
-
-	<a href="index.html"><img src="https://fontmeme.com/permalink/180423/0b307f5b05a133409e7cc561af1cadaf.png" alt="website-logo"></a>
-	
-	<h1>Hi there, I'm Jon.</h1>
-	<h2>Use this space to insert your tagline and remember to keep it short and memorable.</h2>
-	<h3>Advertise highlighted projects/accomplishments below.</h3>
-	<div class="grid">
-		<div class="grid_item three-center span" style="background-image:url('pictures/project.jpg');"><a href="project-management.html" class="grid_link"><div class="tile"><p>Project Management</p></div></a></div>
-		<div class="grid_item three-center span" style="background-image:url('pictures/code.jpg');"><a href="analytics-app.html" class="grid_link"><div class="tile"><p>Analytics App</p></div></a></div>
-		<div class="grid_item three-center span" style="background-image:url('pictures/clients.jpg');"><a href="relationship-building.html" class="grid_link"><div class="tile"><p>Relationship Building</p></div></a></div>
-	</div>
-
-	<div class="btn-container">
-		<div class="pages">
-			<div class="list"><a href="portfolio.html">Portfolio</a></div>
-		</div>	
-	</div>
-	
-	<div class="btn-container">
-		<div class="footer">
-			<div class="list"><a class="cool-link" href="index.html">LinkedIn</a></div>
-			<div class="list"><a class="cool-link" href="index.html">GitHub</a></div>
-			<div class="list"><a class="cool-link" href="index.html">Resume</a></div>
-		</div>	
-	</div>
-	
-	<a href="web.html">&copy; Copyright <span id="footer-copyright"></span><i> Your Name</i>. All Rights Reserved.</a>
-	
-	<script src="js/copyright-year.js"></script>
-</body>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Personal website</title>
+        <style>
+            #h1{color:rgb(39, 39, 209);font:Courier New;position:absolute;right:100px;
+                background: #ECF3FF;
+                        }
+            #h2{color:rgb(39, 39, 209);font:Courier New;position:absolute;right:140px;top:70px;
+                background: rgb(219, 235, 255);
+            }
+            #p{position:absolute;top:180px;
+                background: rgb(219, 235, 255);
+            }
+            #box1{background: rgb(219, 235, 255);}
+            .background{background-color:rgb(145, 217, 89);}
+            .para-2{position:absolute;top:180px;right:10px;width:40%;
+                background: rgb(219, 235, 255);float:right;}
+                .img{position:absolute;top:100px;right:250px;}
+                #italic{font-style:italic;}
+        </style>
+    </head>
+    <body class="background">
+    <div id="box1">
+        <h1 id="h1" div>Pancake House</h1>
+        <h2 id="h2">Grand Opening!</h2>
+            </div>
+            
+        <div id="p">
+        <p><strong>The details:</strong></p>
+        <ul>
+            <li>Pancakes</li>
+            <li>Door prizes
+            <li>Friends
+            <li>Kool Aid
+        </ul></div>
+        
+       <div class="img"> <img src="https://www.kasandbox.org/programming-images/cute/Star.png"></div>
+        
+        <div class="para-2"><p><span id="italic">We are incredibly proud to be opening our new location in West Des Moines offering the worlds best pancakes.</span> We would be nothing short of honored if you would join us for brunch this Sunday.</p></div>
+        
+    </body>
 </html>
